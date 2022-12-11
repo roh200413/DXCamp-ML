@@ -1,4 +1,3 @@
-<meta charset="utf-8" />
 # DX Camp 머신러닝 멘토
 
 머신러닝 멘토로 활동하며 강의했던 자료입니다.
@@ -18,7 +17,7 @@
 3교시: 회귀 모델 <br/>
 4교시: 분류 모델 <br/>
 5교시: 앙상블 <br/>
-<p style="text-decoration:line-through">6교시: 추천 시스템</p><br/>
+6교시: 추천 시스템 x<br/>
 
 
 
