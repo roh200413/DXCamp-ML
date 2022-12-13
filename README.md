@@ -22,11 +22,15 @@
 
 
 <h2> 딥러닝을 활용한 이미지 처리 기초</h2>
-![image](https://user-images.githubusercontent.com/39451858/207398121-80fa2bee-2003-47b3-8d2a-8900ff9bb4b7.png)
-
+<div align=center> 
+  <img src="https://user-images.githubusercontent.com/39451858/207398121-80fa2bee-2003-47b3-8d2a-8900ff9bb4b7.png"  width="280" height="400"/>
+</div>
 
 <h2> 자연어 기초</h2>
-![image](https://user-images.githubusercontent.com/39451858/207397987-f82539ce-7b09-470e-8144-8a1228ed3353.png)
-
+<div align=center> 
+  <img src="https://user-images.githubusercontent.com/39451858/207397987-f82539ce-7b09-470e-8144-8a1228ed3353.png"  width="280" height="400"/>
+</div>
 <h2> 추천시스템 기초</h2>
-![image](https://user-images.githubusercontent.com/39451858/207398205-ac9f905b-d3e9-497b-b053-6cfcbee73fba.png)
+<div align=center> 
+  <img src="https://user-images.githubusercontent.com/39451858/207398205-ac9f905b-d3e9-497b-b053-6cfcbee73fba.png"  width="280" height="400"/>
+</div>
