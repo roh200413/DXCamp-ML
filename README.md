@@ -28,6 +28,7 @@
 
 <h2> 자연어 기초</h2>
 <div align=center> 
+  https://ratsgo.github.io/nlpbook/docs/tutorial_links
   <img src="https://user-images.githubusercontent.com/39451858/207397987-f82539ce-7b09-470e-8144-8a1228ed3353.png"  width="280" height="400"/>
 </div>
 <h2> 추천시스템 기초</h2>
