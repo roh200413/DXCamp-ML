@@ -18,7 +18,9 @@
 4교시: 분류 모델 <br/>
 5교시: 앙상블 <br/>
 6교시: 추천 시스템 x<br/>
-
+<div align=center> 
+  <img src="https://user-images.githubusercontent.com/39451858/228713040-16053935-ff5e-4f9b-9a89-199ffdb54a3c.jpg"  width="280" height="400"/>
+</div>
 
 
 <h2> 딥러닝을 활용한 이미지 처리 기초</h2>
