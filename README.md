@@ -17,7 +17,7 @@
 3교시: 회귀 모델 <br/>
 4교시: 분류 모델 <br/>
 5교시: 앙상블 <br/>
-<p style="text-decoration:line-through">6교시: 추천 시스템 x</<br/>
+<p style="text-decoration:line-through">6교시: 추천 시스템 x</p><br/>
 <div align=center> 
   <img src="https://user-images.githubusercontent.com/39451858/228713228-80822c20-f16d-4b0b-85bc-92415b2e60f0.png"  width="280" height="400"/>
 </div>
