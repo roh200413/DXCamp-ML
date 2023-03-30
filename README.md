@@ -17,7 +17,7 @@
 3교시: 회귀 모델 <br/>
 4교시: 분류 모델 <br/>
 5교시: 앙상블 <br/>
-<p style="text-decoration:line-through">6교시: 추천 시스템 x</p><br/>
+6교시: 추천 시스템 x<br/>
 <div align=center> 
   <img src="https://user-images.githubusercontent.com/39451858/228713228-80822c20-f16d-4b0b-85bc-92415b2e60f0.png"  width="280" height="400"/>
 </div>
@@ -27,12 +27,12 @@
   <img src="https://user-images.githubusercontent.com/39451858/207398121-80fa2bee-2003-47b3-8d2a-8900ff9bb4b7.png"  width="280" height="400"/>
 </div>
 
-<h2> 자연어 기초</h2>
+<h2> 자연어 기초 - 강의 취소</h2>
 <div align=center> 
   https://ratsgo.github.io/nlpbook/docs/tutorial_links <br/>
   <img src="https://user-images.githubusercontent.com/39451858/207397987-f82539ce-7b09-470e-8144-8a1228ed3353.png"  width="280" height="400"/>
 </div>
-<h2> 추천시스템 기초</h2>
+<h2> 추천시스템 기초 - 강의 취소</h2>
 <div align=center> 
   <img src="https://user-images.githubusercontent.com/39451858/207398205-ac9f905b-d3e9-497b-b053-6cfcbee73fba.png"  width="280" height="400"/>
 </div>
